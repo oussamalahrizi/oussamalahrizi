@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Oussama Lahrizi
 #### self taught web developer
-I am currently a student at 1337 who's obsessed with new tech stuff
+I am currently a student at 1337/42 Network who's obsessed with new tech stuff
 
 Skills: <br>
 ⚛︎ React <br>
