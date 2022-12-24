@@ -1,4 +1,4 @@
-### Hi there 👋
+[![olahrizi's 42 stats](https://badge42.vercel.app/api/v2/clc22k1aw00250fjrjt9gd8d2/stats?cursusId=21&coalitionId=78)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **oussamalahrizi/oussamalahrizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
