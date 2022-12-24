@@ -3,7 +3,7 @@
 I am currently a student at 1337/42 Network who's obsessed with new tech stuff
 
 Skills: <br>
-⚛︎ React <br>
+⚛︎  React <br>
 📱 React Native <br>
 💻 JS / HTML / CSS <br>
 
