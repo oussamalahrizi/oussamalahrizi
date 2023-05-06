@@ -12,6 +12,4 @@ Skills: <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamalahrizi)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=oussamalahrizi&show_icons=true)  
-
-[![olahrizi's 42 stats](https://badge42.vercel.app/api/v2/clc22k1aw00250fjrjt9gd8d2/stats?cursusId=21&coalitionId=78)](https://github.com/JaeSeoKim/badge42)
+[![olahrizi's 42 stats](https://badge.mediaplus.ma/levi/olahrizi)](https://github.com/oakoudad/badge42)
