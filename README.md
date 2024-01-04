@@ -17,6 +17,8 @@ Skills: <br>
    <a href="https://github.com/oussamalahrizi">
        <img align="center" src="https://github-readme-stats.vercel.app/api/?username=oussamalahrizi&theme=ayu-mirage&show_icons=true" alt="Exiled Owly's GitHub page" height="200"/>
    </a>
+</div>
+<div>
    <a href="https://github.com/oussamalahrizi">
        <img align="center" src="https://badge.mediaplus.ma/levi/olahrizi" alt="Exiled Owly's GitHub page" height="200"/>
    </a>
