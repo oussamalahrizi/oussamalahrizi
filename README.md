@@ -15,8 +15,9 @@ Skills: <br>
    </a>
    
    <a href="https://github.com/valentinefleith">
-       <img align="center" src="https://github-readme-stats.vercel.app/api/?username=oussamalahrizi&theme=ayu-mirage&show_icons=true" alt="Valentine's GitHub page" height="200"/>
+       <img align="center" src="https://github-readme-stats.vercel.app/api/?username=oussamalahrizi&theme=ayu-mirage&show_icons=true" alt="Exiled Owly's GitHub page" height="200"/>
+   </a>
+   <a href="https://github.com/valentinefleith">
+       <img align="center" src="https://badge.mediaplus.ma/levi/olahrizi" alt="Exiled Owly's GitHub page" height="200"/>
    </a>
 </div>
-
-[![olahrizi's 42 stats](https://badge.mediaplus.ma/levi/olahrizi)](https://github.com/oakoudad/badge42)
