@@ -19,6 +19,7 @@ Skills: <br>
    </a>
 </div>
 <div align="center">
+   <br>
    <a href="https://github.com/oussamalahrizi">
        <img align="center" src="https://badge.mediaplus.ma/levi/olahrizi" alt="Exiled Owly's GitHub page" height="200"/>
    </a>
