@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Oussama Lahrizi
+### Hi there 👋, my name is Oussama Lahrizi (aka Exiled)
 #### self taught web developer
 I am currently a student at 1337/42 Network who's obsessed with new tech stuff
 
