@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Oussama Lahrizi (aka Exiled)
-#### self taught web developer
+#### self taught software engineer (Cope)
 I am currently a student at 1337/42 Network who's obsessed with new tech stuff
 
 Skills: <br>
