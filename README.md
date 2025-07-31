@@ -2,6 +2,9 @@
 #### self taught software engineer (Cope)
 I am currently a student at 1337/42 Network who's obsessed with new tech stuff
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xspaanky&label=Profile%20views&color=0e75b6&style=flat" alt="Exiled Owly" /> </p>
+
+
 Skills: <br>
 ⚛︎  React <br>
 📱 React Native <br>
